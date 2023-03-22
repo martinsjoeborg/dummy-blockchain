@@ -1,5 +1,5 @@
-import createUser from "./createPage.js";
-import main2 from "./mainPage2.js";
+import createUser from "/createPage.js";
+import main2 from "/mainPage2.js";
 
 export default function logIn() {
 

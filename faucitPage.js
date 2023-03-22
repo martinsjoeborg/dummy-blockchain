@@ -1,5 +1,5 @@
-import main2 from "./mainPage2.js";
-import User from "./users.js";
+import main2 from "/mainPage2.js";
+import User from "/users.js";
 
 export default function faucitPage() {
     mainPage2text.innerHTML = "";

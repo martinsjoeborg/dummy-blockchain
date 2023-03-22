@@ -1,7 +1,7 @@
-import main from "./mainPage.js";
-import transactionPage from "./transactionPage.js";
-import walletPage from "./walletPage.js";
-import faucitPage from "./faucitPage.js";
+import main from "/mainPage.js";
+import transactionPage from "/transactionPage.js";
+import walletPage from "/walletPage.js";
+import faucitPage from "/faucitPage.js";
 
 export default function main2() {
 

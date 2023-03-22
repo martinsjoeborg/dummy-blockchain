@@ -1,5 +1,5 @@
-import main2 from "./mainPage2.js";
-import faucitPage from "./faucitPage.js";
+import main2 from "/mainPage2.js";
+import faucitPage from "/faucitPage.js";
 
 export default function walletPage() {
     mainPage2text.innerHTML = "";

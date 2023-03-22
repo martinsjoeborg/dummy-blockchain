@@ -1,4 +1,4 @@
-import main2 from "./mainPage2.js"
+import main2 from "/mainPage2.js";
 
 export default function transactionPage() {
     mainPage2text.innerHTML = "";
