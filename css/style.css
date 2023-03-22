@@ -1,0 +1,247 @@
+body{
+    background-color: rgb(192, 124, 42);
+}
+
+#content {
+    position: static;
+    
+}
+
+/*    MAIN PAGE     */
+
+#welcomeText {
+
+    position: relative;
+    top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#buttonDiv {
+
+    position: relative;
+    top: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#loginBtn {
+
+    
+    
+}
+
+#createBtn {
+    
+}
+
+/*    CREATE PAGE     */
+
+#text1 {
+    position: relative;
+    top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#buttonDivCreate {
+    position: relative;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#createNewUserBtn {
+    
+}
+
+#backBtn {
+    
+}
+
+#formDiv {
+    position: relative;
+    top: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#userNameForm {
+
+}
+
+#passWordForm {
+
+}
+
+#popUpText {
+    position: relative;
+    top: 410px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*    LOGIN PAGE     */
+
+#text2 {
+    position: relative;
+    top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#formDivLogin {
+    position: relative;
+    top: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#userName {
+
+}
+
+#passWord {
+
+}
+
+#buttonDivLogin {
+    position: relative;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logInBtn {
+
+}
+
+#backBtn {
+
+}
+
+#popUpText2{
+    position: relative;
+    top: 410px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#popUpText3 {
+    position: relative;
+    top: 410px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*    MAIN PAGE 2     */
+
+#logOutBtn {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+ 
+#mainPage2text {
+    position: relative;
+    top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#mainPage2Btns {
+    position: relative;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*    TRANSACTION PAGE    */
+
+#transactionDiv {
+    position: relative;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#receiver {
+    
+}
+
+#amount {
+    
+}
+
+#sendBtn {
+    
+}
+
+/*      WALLET PAGE     */
+
+#walletText {
+    position: relative;
+    top: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#walletSaldoText {
+    position: relative;
+    top: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#walletBtnDiv {
+    position: relative;
+    top: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#walletBtn {
+    
+}
+
+/*      FAUCIT PAGE      */
+
+#faucitText {
+    position: relative;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#faucitBtnDiv {
+    position: relative;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#faucitSaldo {
+    position: relative;
+    top: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
