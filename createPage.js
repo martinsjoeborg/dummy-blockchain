@@ -1,6 +1,7 @@
 import main from "/mainPage.js";
 import UserArray from "/userArray.js";
 import User from "/users.js";
+import content from "/script.js";
 
 export default function createUser() {
 
