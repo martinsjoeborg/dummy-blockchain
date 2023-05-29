@@ -1,6 +1,6 @@
 import createUser from "/createPage.js";
 import main2 from "/mainPage2.js";
-import content from "/script.js";
+// import content from "/script.js";
 
 export default function logIn() {
 
